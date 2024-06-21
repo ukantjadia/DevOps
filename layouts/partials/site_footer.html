@@ -1,0 +1,43 @@
+<footer class="site-footer">
+    <!-- {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+    <p class="powered-by">
+      {{ with site.GetPage "privacy.md" }}
+        {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+      {{ end }}
+      {{ with site.GetPage "terms.md" }}
+        {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+        {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+      {{ end }}    
+    </p>
+    {{ end }} -->
+  
+    <p class="powered-by">
+      <!-- {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }} -->
+  
+      Powered by 
+      <!-- <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for -->
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        
+
+      <!-- <p class="footer-copyright"> -->
+        <!-- &copy; -->
+         {{ now.Format "2006" }} &middot; 
+        <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        {{ with .Site.Params.footer_text | markdownify }}
+          <span>&middot; {{ . }}</span>
+        {{ end }}
+      <!-- </p> -->
+
+
+
+      <!-- {{ if ne .Type "docs" }}
+      <span class="float-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fas fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+      {{ end }} -->
+    </p>
+  </footer>
