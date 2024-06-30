@@ -9,7 +9,7 @@ date: '2024-03-01T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-draft: false
+draft: true
 
 image:
   # caption: Photo by raw pixel on Unsplash

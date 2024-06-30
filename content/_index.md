@@ -57,12 +57,12 @@ sections:
       title: Skills
       items:
       - name: Languages
-        description: Python, C/C++, Dart, Bash/Shell, Java
+        description: Bash/Shell, Python, C/C++, Dart, Bash/Shell, Java
         # percent: 75
         icon:   language
         icon_pack: custom
       - name: Frameworks/Library
-        description: Flutter, Flask, Tensorflow, Requests, imutils
+        description: Flutter, Flask, Django, Regex, Requests, imutils
         # percent: 70
         icon: framework
         icon_pack: custom
@@ -72,12 +72,12 @@ sections:
         icon: database
         icon_pack: custom
       - name: Tools/Platform 
-        description: Vim, Git, Linux, Docker, MLFlow, PowerBI
+        description: Vim, Git, Linux, Docker/Kubernetes, Sed/awk, Jenkins
         # percent: 80
         icon: platform
         icon_pack: custom
       - name: Miscellaneous
-        description: Statistics, Supervised/Unsupervised Learning, Deep Learning, EDA/ETL, AWS/Azure
+        description: AWS(EC2, Lambda, SNS, CloudWathc, S3 ), GCP(Compute Engine, Cloud Functions, Cloud Pub/Sub, Cloud Logging, Cloud Storage)
         # percent: 70
         icon: miscellaneous
         icon_pack: custom
@@ -244,10 +244,6 @@ sections:
           tag: Research Paper
         - name: MLOps
           tag: MLOps
-        - name: Data Analysis
-          tag: EDA
-        - name: Classification
-          tag: Classification          
         - name: Other
           tag: Demo
     design:

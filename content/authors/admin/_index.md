@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate | ML & Software Engineer 
+role: DevOps | ML | Software Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,13 +25,13 @@ organizations:
     url: https://www.spsu.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied machine learning, visualization, programming boring stuff.
+bio: I love to build  by the CLI, for the CLI, to the CLI 
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Medical Solutions
-  - Large Language Model             
+  - Command Line Interface
+  - Logical Reasoning
+  - Machine Learning             
 
 # Education to show in About widget
 education:
@@ -134,5 +134,6 @@ social:
 highlight_name: false
 ---
 
-I'm a fast learner who loves exploring data and turning it into clear stories. My goal is to grow as a Researcher/Machine Learning Engineer in a stable company where I can contribute with my skills and dedication. I'm a hard worker who thrives under pressure, using tools like stats and programming to get results. Plus, I'm great at talking to people to ensure everyone's on the same page.
+I'm a fast learner and I follow the Unix philosophy of starting small and scaling up. I spend most of my time figuring things out through the command line, and I love automating regular tasks with scripts. We could be friends if you're into discussing Linux and if you enjoy spending late nights setting up your operating system.
+
 {style="text-align: justify;"}
