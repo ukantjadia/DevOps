@@ -57,12 +57,12 @@ sections:
       title: Skills
       items:
       - name: Languages
-        description: Bash/Shell, Python, C/C++, Dart, Bash/Shell, Java
+        description: Bash/Shell, Python, C/C++, Dart, Java
         # percent: 75
         icon:   language
         icon_pack: custom
       - name: Frameworks/Library
-        description: Flutter, Flask, Django, Regex, Requests, imutils
+        description: Flutter, Flask, Django, Regex, Requests
         # percent: 70
         icon: framework
         icon_pack: custom
@@ -77,7 +77,7 @@ sections:
         icon: platform
         icon_pack: custom
       - name: Miscellaneous
-        description: AWS(EC2, Lambda, SNS, CloudWathc, S3 ), GCP(Compute Engine, Cloud Functions, Cloud Pub/Sub, Cloud Logging, Cloud Storage)
+        description: AWS(EC2, Lambda, SNS, CloudWatch, S3 ), GCP(Compute Engine, Cloud Functions, Cloud Pub/Sub, Cloud Logging, Cloud Storage)
         # percent: 70
         icon: miscellaneous
         icon_pack: custom
