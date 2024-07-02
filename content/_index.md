@@ -10,7 +10,7 @@ sections:
     content:
       title: Ukant Jadia
       image:
-        filename: linux.gif
+        filename: test.mp4
       cta:
         label: '**Get Started**'
         url: https://hugoblox.com/templates/
