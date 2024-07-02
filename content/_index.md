@@ -10,12 +10,12 @@ sections:
     content:
       title: Ukant Jadia
       image:
-        filename: test.mp4
+        filename: linux.gif
       cta:
-        label: '**Get Started**'
+        label: '**Videos**'
         url: https://hugoblox.com/templates/
       cta_alt:
-        label: Ask a question
+        label: Resume
         url: https://discord.gg/z8wNYzb
       cta_note:
         # label: >-
