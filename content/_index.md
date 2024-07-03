@@ -10,7 +10,7 @@ sections:
     content:
       title: Ukant Jadia
       image:
-        filename: all.gif
+        filename: final.gif
       cta:
         label: '**Videos**'
         url: https://hugoblox.com/templates/
@@ -21,7 +21,7 @@ sections:
         # label: >-
         #   <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
       text: |-
-        During my initial college years, I developed an interest in hacking and information security, leading me to set up my own Linux environment with Kali Linux. I learned Linux commands and CLI usage primarily through YouTube and college. My experience includes using Docker for machine learning projects, hosting my personal website on AWS, and implementing CI/CD pipelines with GitHub Actions. I also completed a Google Cloud Career Path Certificate and an IBM course on Kubernetes and Docker Swarm.
+        During my initial college years, I developed an interest in hacking and information security, leading me to set up my own Linux environment with Kali Linux. I learned Linux commands and CLI usage primarily through YouTube and college. My experience includes using Docker for machine learning projects, hosting my website on AWS, and implementing CI/CD pipelines with GitHub Actions. I also completed a Google Cloud Career Path Certificate and an IBM course on Kubernetes and Docker Swarm.
 
     design:
       background:
