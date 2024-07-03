@@ -10,13 +10,13 @@ sections:
     content:
       title: Ukant Jadia
       image:
-        filename: final1.gif
+        filename: final.gif
       cta:
         label: '**Videos**'
-        url: https://hugoblox.com/templates/
+        url: https://www.youtube.com/@easyunix
       cta_alt:
         label: Resume
-        url: https://discord.gg/z8wNYzb
+        url: uploads/resume.pdf
       cta_note:
         # label: >-
         #   <div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Hugo Blox Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/HugoBlox/theme-academic-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
