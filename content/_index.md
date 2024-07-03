@@ -10,7 +10,7 @@ sections:
     content:
       title: Ukant Jadia
       image:
-        filename: final.gif
+        filename: final1.gif
       cta:
         label: '**Videos**'
         url: https://hugoblox.com/templates/
