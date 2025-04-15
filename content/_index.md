@@ -63,7 +63,7 @@ sections:
         # percent: 70
         icon: database
         icon_pack: custom
-      - name: Tools/Platform 
+      - name: Tools/Platform
         description: Vim, Git, Linux, Docker/Kubernetes, Sed/awk, Jenkins
         # percent: 80
         icon: platform
@@ -99,6 +99,32 @@ sections:
         #       * Analysing
         #       * Modelling
         #       * Deploying
+        - title: Data Science Intern
+          company: Mente Consultancies
+          company_url: 'https://www.linkedin.com/company/mente-consultancies/'
+          company_logo: ''
+          location: Delhi
+          date_start: '2024-07-22'
+          date_end: '2025-01-22'
+          description: |2-
+              * Designed Python-based systems for rolling feature updates, signature storage, and real-time predictions without database dependency.
+              * Built Calendar and Rebase Marts in SAS to restructure time-series data, address seasonality, and ensure data quality.
+              * Developed statistical variables and pipelines in SAS Viya for machine learning models, enabling robust predictions.
+              * Created SAS Visual Analytics dashboards to monitor model performance and data drifts.
+
+        - title: SWE Intern
+          company: Cognus Technology
+          company_url: 'https://www.cognustechnology.com/'
+          company_logo: ''
+          location: Udaipur
+          date_start: '2023-05-22'
+          date_end: '2023-08-22'
+          description: |2-
+            * Contributed to live project Gradding using **Flutter**, **Dart**, and **Figma**.
+            * Designed intuitive onboarding with **questionnaires** and document uploads, **handling return cases** seamlessly.
+            * Conducted in-depth market research on competing applications, analyzing **features** and **identifying gaps** to streamline onboarding app development by **25%**.
+    design:
+      columns: '2'
         - title: SWE Intern
           company: Cognus Technology
           company_url: 'https://www.cognustechnology.com/'
@@ -240,7 +266,7 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2' 
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -317,7 +343,7 @@ sections:
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '24.6098491'
-        longitude: '73.7343402'  
+        longitude: '73.7343402'
       contact_links:
         - icon: twitter
           icon_pack: fab
