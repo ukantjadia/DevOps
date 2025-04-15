@@ -3,6 +3,7 @@ title: Exploratory Data Analysis - COVID-19 Data
 summary: Doing EDA on India geographical dataset of COVID-19
 tags:
   - Demo
+  - DevOps
   - EDA
 date: '2023-02-23T00:00:00Z'
 
@@ -23,7 +24,7 @@ links:
   - icon: linkedin
     icon_pack: fab
     name: Connect
-    url: 'https://www.linkedin.com/in/ukantjadia' 
+    url: 'https://www.linkedin.com/in/ukantjadia'
 url_code: 'https://github.com/ukantjadia/30-days-of-Mahcine-Learning/blob/Main/DAY-19/COVID-19%20EDA%20Sample%20Project.ipynb'
 url_pdf: ''
 url_slides: ''

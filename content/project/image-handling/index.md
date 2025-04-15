@@ -1,9 +1,10 @@
 ---
 title: Image Manipulation using OpenCV
-summary: Implemented core concept of image manipulation 
+summary: Implemented core concept of image manipulation
 tags:
   - Image Processing
   - OpenCV
+  - DevOps
   - Pillow
 date: '2023-03-31T00:00:00Z'
 
@@ -20,7 +21,7 @@ links:
   - icon: linkedin
     icon_pack: fab
     name: Connect
-    url: 'https://www.linkedin.com/in/ukantjadia' 
+    url: 'https://www.linkedin.com/in/ukantjadia'
   - icon: linkedin
     icon_pack: fab
     name: Follow
@@ -40,4 +41,3 @@ url_video: ''
 
 
 I implemented the core concept of image handling from my Digital Signal Processing class. This was a streamlit app with functionality of contrast handling, brightness, inverting, and other basic actions on the uploaded image with the help of OpenCV.
-

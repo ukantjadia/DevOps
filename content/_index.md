@@ -250,6 +250,8 @@ sections:
           tag: Research Paper
         - name: MLOps
           tag: MLOps
+        - name: DevOps
+          tag: DevOps
         - name: Other
           tag: Demo
     design:
